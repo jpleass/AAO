@@ -9,32 +9,9 @@ Email:  support@getkirby.com
 */
 
 
-/* Source Sans Pro
+/* Font Face
 -------------------------------------------------- */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  src: url(../fonts/sourcesanspro-300.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: url(../fonts/sourcesanspro-400.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 600;
-  src: url(../fonts/sourcesanspro-600.woff) format('woff');
-}
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: italic;
-  font-weight: 400;
-  src: url(../fonts/sourcesanspro-400-italic.woff) format('woff');
-}
+
 
 
 /* Reset
@@ -66,8 +43,8 @@ img {
 a {
   color: #000;
   text-decoration: none;
-  transition: color .3s, background .3s, border .3s;
 }
+
 a:hover {
   color: blue;
 }
