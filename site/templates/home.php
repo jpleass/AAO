@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <div id="fullpage" class="container-fluid" role="main">
+  <div id="fullpage" role="main">
 
     <?php snippet('interview') ?>
 
